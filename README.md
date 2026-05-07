@@ -7,9 +7,9 @@
 
 ## 👋 About Me
 
-I'm a Computer Engineering student passionate about building intelligent systems and immersive experiences. I focus on **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **VR Development** to create solutions that bridge technology and real-world applications.
+I'm a Computer Engineering student passionate about building intelligent systems and immersive experiences. I focus on **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **VR** experiences.
 
-Currently exploring how deep learning and spatial computing can enhance user experiences and solve complex engineering challenges. When I'm not coding, you'll find me experimenting with new frameworks, contributing to open-source, or working on TEKNOFEST rocket projects.
+Currently exploring how deep learning and spatial computing can enhance user experiences and solve complex engineering challenges. When I'm not coding, you'll find me experimenting with new frameworks and technologies.
 
 ---
 
@@ -118,7 +118,7 @@ Operating systems project demonstrating thread synchronization and concurrency.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://mfaikduman.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mfaikduman/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MFaikduman)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfaik.duman@gmail.com)
 
 </div>
 
