@@ -101,7 +101,7 @@ Operating systems project demonstrating concurrent resource management using POS
 
 ## Connect
 
-[Portfolio](https://mfaikduman.github.io/) • [LinkedIn](https://linkedin.com/in/mfaikduman/) • [GitHub](https://github.com/MFaikduman) • [Email](mailto:mfaik.duman@gmail.com)
+[Portfolio](https://mfaikduman.github.io/) • [LinkedIn](https://linkedin.com/in/mfaikduman/) • [GitHub](https://github.com/MFaikduman) • [Email](https://mail.google.com/mail/?view=cm&fs=1&to=mfaik.duman%40gmail.com)
 
 ---
 
