@@ -11,7 +11,7 @@
 
 ---
 
-## Software Engineering Portfolio
+## Computer Engineering Portfolio
 
 I am **Muhammet Faik Duman**, a Computer Engineering student based in **Turkiye**, focused on building practical software across rocket systems, artificial intelligence, computer vision, simulation technologies, web applications and mobile game development.
 
@@ -21,10 +21,6 @@ I enjoy transforming engineering ideas into real-world software products, combin
   <tr>
     <td><strong>Education</strong></td>
     <td>Computer Engineering Student</td>
-  </tr>
-  <tr>
-    <td><strong>GPA</strong></td>
-    <td>3.10 / 4.00</td>
   </tr>
   <tr>
     <td><strong>Expected Graduation</strong></td>
