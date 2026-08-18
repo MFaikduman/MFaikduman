@@ -124,7 +124,9 @@ current_endeavors:
         <li>Touch-optimized UI and responsive game feel</li>
       </ul>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Release%20Candidate-22c55e?style=for-the-badge" alt="Status" />
+        <a href="https://play.google.com/store/apps/details?id=com.dumangames.sivrisinekgecesi" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-Get_It_On_Google_Play-00875A?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+        </a>
       </p>
     </td>
   </tr>
