@@ -176,29 +176,6 @@ current_endeavors:
 
 ---
 
-### 📊 GitHub Analytics & Activity
-
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=MFaikduman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFaikduman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=MFaikduman&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&stroke=38bdf8" alt="GitHub Streak" />
-
-</div>
-
----
-
 ### 📬 Let's Connect
 
 <div align="center">
