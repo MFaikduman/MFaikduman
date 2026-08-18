@@ -75,8 +75,9 @@ current_endeavors:
 
 #### ⚡ Embedded Systems & IoT
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded" />
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
   <br />
+  <img src="https://img.shields.io/badge/Proteus-Design%20Suite-008080?style=flat-square" alt="Proteus Design Suite" />
   <img src="https://img.shields.io/badge/ESP32-Microcontrollers-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Sensors%20%26%20Actuators-Hardware-22c55e?style=flat-square" alt="Sensors" />
 </p>
