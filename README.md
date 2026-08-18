@@ -1,217 +1,226 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1e3a8a,100:38bdf8&height=220&section=header&text=Muhammet%20Faik%20Duman&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Software%20Developer%20%7C%20Engineering%20Projects&descAlignY=56&descSize=16" alt="Muhammet Faik Duman banner" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e3a8a,70:0284c7,100:38bdf8&height=220&section=header&text=Muhammet%20Faik%20Duman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=16&descColor=bae6fd" width="100%" alt="Header Banner" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mfaikduman.com-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://mfaikduman.com)
-[![Rocket Calculator](https://img.shields.io/badge/Rocket%20Calculator-Live%20Project-F97316?style=for-the-badge&logo=rocket&logoColor=white)](https://rocketcalc.mfaikduman.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mfaikduman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mfaikduman)
-[![GitHub](https://img.shields.io/badge/GitHub-MFaikduman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MFaikduman)
+  <!-- Animated Typing Subtitle -->
+  <a href="https://mfaikduman.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%F0%9F%8E%93;Software+Developer+%26+Game+Dev+%F0%9F%8E%AE;AI%2C+Computer+Vision+%26+Embedded+Systems+%F0%9F%A4%96;Rocket+Systems+%26+Simulation+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+
+  <br />
+
+  <!-- Quick Social Badges -->
+  <p align="center">
+    <a href="https://mfaikduman.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-mfaikduman.com-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/mfaikduman" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-mfaikduman-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://rocketcalc.mfaikduman.com" target="_blank">
+      <img src="https://img.shields.io/badge/Rocket%20Calc-Live%20Demo-f97316?style=for-the-badge&logo=rocket&logoColor=white" alt="Rocket Calculator" />
+    </a>
+    <a href="mailto:contact@mfaikduman.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## Computer Engineering Portfolio
+### 👨‍💻 About Me
 
-I am **Muhammet Faik Duman**, a Computer Engineering student based in **Turkiye**, focused on building practical software across rocket systems, artificial intelligence, computer vision, simulation technologies, web applications and mobile game development.
-
-I enjoy transforming engineering ideas into real-world software products, combining academic foundations with hands-on project development, experimentation and continuous technical improvement.
-
-<table>
-  <tr>
-    <td><strong>Education</strong></td>
-    <td>Computer Engineering Student</td>
-  </tr>
-  <tr>
-    <td><strong>Expected Graduation</strong></td>
-    <td>2027</td>
-  </tr>
-  <tr>
-    <td><strong>Location</strong></td>
-    <td>Turkiye</td>
-  </tr>
-  <tr>
-    <td><strong>Engineering Interests</strong></td>
-    <td>Rocket Systems, AI, Computer Vision, VR Simulation, Web Applications, Mobile Games, Embedded Systems</td>
-  </tr>
-</table>
+```yaml
+name: Muhammet Faik Duman
+role: Computer Engineering Student & Software Developer
+focus_areas: [Rocket Systems, Computer Vision, VR/AR Simulation, Game Dev, Embedded Systems]
+education:
+  degree: B.Sc. in Computer Engineering
+  status: Undergraduate (Expected 2027)
+  location: Turkiye 🇹🇷
+current_endeavors:
+  - 🚀 Developing rocket engineering & trajectory calculation software
+  - 🎮 Building optimized mobile & desktop games with Unity & C#
+  - 👁️ Implementing computer vision & ML systems using OpenCV and Python
+  - 🥽 Creating immersive VR training simulations (TÜBİTAK funded)
+```
 
 ---
 
-## Featured Projects
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+#### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css" alt="Languages" />
+</p>
+
+#### 🎮 Game Development, VR & 3D Simulation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,blender" alt="Game & Simulation" />
+</p>
+
+#### 🧠 AI, Data Science & Computer Vision
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,python" alt="AI & CV" />
+  <br />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Fundamentals-0284c7?style=flat-square&logo=scikitlearn&logoColor=white" alt="ML" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Basics-f97316?style=flat-square" alt="DL" />
+</p>
+
+#### ⚡ Embedded Systems & IoT
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded" />
+  <br />
+  <img src="https://img.shields.io/badge/ESP32-Microcontrollers-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Sensors%20%26%20Actuators-Hardware-22c55e?style=flat-square" alt="Sensors" />
+</p>
+
+#### 🔧 Developer Tools & Environment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,figma" alt="Dev Tools" />
+</p>
+
+</div>
+
+---
+
+### 🚀 Featured Engineering & Software Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>Rocket Calculator</h3>
-      <p>A web-based rocket calculation platform developed for rocket enthusiasts and engineering students.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Rocket Calculator</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Live%20Web%20App-38BDF8?style=flat-square&logo=vercel&logoColor=white" alt="Status" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
       </p>
-      <a href="https://rocketcalc.mfaikduman.com">
-        <img src="https://img.shields.io/badge/View%20Project-rocketcalc.mfaikduman.com-38BDF8?style=for-the-badge" alt="View Rocket Calculator" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>Sivrisinek Gecesi</h3>
-      <p>An Android arcade game developed with Unity and C#, including gameplay systems, progression mechanics, UI development and mobile optimization.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=111827" alt="Android" />
-      </p>
-      <img src="https://img.shields.io/badge/Status-Google%20Play%20Release%20Candidate-22C55E?style=for-the-badge" alt="Google Play release candidate" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>TUBITAK VR Simulation Projects</h3>
-      <p>Virtual reality simulations designed for fire safety training and healthcare education, focused on immersive learning and applied simulation scenarios.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Virtual%20Reality-7C3AED?style=flat-square&logo=oculus&logoColor=white" alt="Virtual Reality" />
-        <img src="https://img.shields.io/badge/Simulation-0EA5E9?style=flat-square&logo=unity&logoColor=white" alt="Simulation" />
-        <img src="https://img.shields.io/badge/Training%20Systems-14B8A6?style=flat-square" alt="Training Systems" />
+      <p>A comprehensive web-based engineering calculation suite designed for rocket propulsion, flight dynamics, and recovery parameters.</p>
+      <ul>
+        <li>Aero-structural and payload calculations</li>
+        <li>Instant telemetry and descent speed estimation</li>
+      </ul>
+      <p align="center">
+        <a href="https://rocketcalc.mfaikduman.com" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Launch_App-rocketcalc.mfaikduman.com-0284c7?style=for-the-badge" alt="Launch App" />
+        </a>
       </p>
     </td>
-    <td width="50%">
-      <h3>TEKNOFEST Rocket Competition</h3>
-      <p>Simurg Rocket Team member responsible for recovery systems, separation mechanisms and technical coordination.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Rocket%20Systems-F97316?style=flat-square&logo=rocket&logoColor=white" alt="Rocket Systems" />
-        <img src="https://img.shields.io/badge/Recovery%20Systems-38BDF8?style=flat-square" alt="Recovery Systems" />
-        <img src="https://img.shields.io/badge/Technical%20Coordination-64748B?style=flat-square" alt="Technical Coordination" />
+    <td width="50%" valign="top">
+      <h3 align="center">🦟 Sivrisinek Gecesi</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Unity%203D%2F2D-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Android" />
+      </p>
+      <p>An arcade mobile game engineered from scratch with clean object-oriented architecture, custom particle effects, and performance optimization for Android.</p>
+      <ul>
+        <li>Dynamic progression and difficulty scaling</li>
+        <li>Touch-optimized UI and responsive game feel</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Release%20Candidate-22c55e?style=for-the-badge" alt="Status" />
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>HomTech Emotion Analysis</h3>
-      <p>A computer vision based smart home system capable of emotion detection from facial expressions.</p>
-      <p>
+    <td width="50%" valign="top">
+      <h3 align="center">🥽 TÜBİTAK VR Simulation Projects</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Virtual%20Reality-7C3AED?style=flat-square&logo=meta&logoColor=white" alt="VR" />
+        <img src="https://img.shields.io/badge/Simulation-0284c7?style=flat-square&logo=unity&logoColor=white" alt="Sim" />
+      </p>
+      <p>Immersive VR training environments developed for emergency response, fire safety drill operations, and healthcare education scenarios.</p>
+      <ul>
+        <li>Realistic physics-based interaction mechanics</li>
+        <li>Scenario evaluation and scoring analytics</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛰️ TEKNOFEST Rocket Competition</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Simurg%20Rocket%20Team-F97316?style=flat-square&logo=rocket&logoColor=white" alt="Rocket Team" />
+        <img src="https://img.shields.io/badge/Avionics-64748B?style=flat-square" alt="Avionics" />
+      </p>
+      <p>Member of Simurg Rocket Team with active roles in separation mechanisms, parachute recovery subsystems, and technical flight documentation.</p>
+      <ul>
+        <li>Payload separation and dual-deployment telemetry</li>
+        <li>Structural tolerance and pressure testing</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👁️ HomTech Emotion Analysis</h3>
+      <p align="center">
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Computer%20Vision-06B6D4?style=flat-square" alt="Computer Vision" />
       </p>
+      <p>AI-driven smart environment system that utilizes real-time facial landmark detection and computer vision models to dynamically respond to user emotions.</p>
     </td>
-    <td width="50%">
-      <h3>Adaptive In-Vehicle Audio Management System</h3>
-      <p>An ESP32-based embedded system that dynamically adjusts multimedia volume according to environmental conditions.</p>
-      <p>
+    <td width="50%" valign="top">
+      <h3 align="center">🎛️ Adaptive Audio Management System</h3>
+      <p align="center">
         <img src="https://img.shields.io/badge/ESP32-111827?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-        <img src="https://img.shields.io/badge/Embedded%20Systems-475569?style=flat-square" alt="Embedded Systems" />
-        <img src="https://img.shields.io/badge/Sensors-22C55E?style=flat-square" alt="Sensors" />
+        <img src="https://img.shields.io/badge/Embedded%20C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
       </p>
+      <p>Embedded vehicle cabin system with environmental acoustic sensors dynamically modulating multimedia output based on ambient noise.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Tech Stack
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-### Languages
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=MFaikduman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFaikduman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,c,js" alt="Languages: Python, C#, C++, C, JavaScript" />
+  <br />
 
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Web: HTML5, CSS3, JavaScript" />
-
-### AI, Data & Computer Vision
-
-<img src="https://skillicons.dev/icons?i=opencv,python" alt="AI and computer vision: OpenCV, Python" />
-
-<br />
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Machine%20Learning-Fundamentals-0EA5E9?style=for-the-badge" alt="Machine Learning Fundamentals" />
-
-### Game, Simulation & Embedded
-
-<img src="https://skillicons.dev/icons?i=unity,blender,arduino" alt="Unity, Blender, Arduino" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Git, GitHub, VS Code, Visual Studio" />
+  <img src="https://streak-stats.demolab.com?user=MFaikduman&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&stroke=38bdf8" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## Engineering Focus
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>Rocket Systems</strong><br />
-      Recovery, separation mechanisms and calculation tools
-    </td>
-    <td align="center" width="25%">
-      <strong>AI & Vision</strong><br />
-      Emotion analysis, OpenCV workflows and applied ML fundamentals
-    </td>
-    <td align="center" width="25%">
-      <strong>Simulation</strong><br />
-      VR education, safety training and interactive technical systems
-    </td>
-    <td align="center" width="25%">
-      <strong>Product Development</strong><br />
-      Web platforms, Android games and embedded prototypes
-    </td>
-  </tr>
-</table>
-
----
-
-## GitHub Statistics
+### 📬 Let's Connect
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MFaikduman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Muhammet Faik Duman GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFaikduman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages" />
+  <p>I am always open to discussing new software projects, engineering challenges, internships, and research collaborations.</p>
 
-<br />
+  <a href="https://linkedin.com/in/mfaikduman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://mfaikduman.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/MFaikduman" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:contact@mfaikduman.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 
-<img src="https://streak-stats.demolab.com?user=MFaikduman&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" alt="GitHub streak stats" />
+  <br /><br />
 
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MFaikduman&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=F97316&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
-## Contact & Links
-
-<div align="center">
-
-I am open to internship opportunities, engineering projects and collaboration around software, simulation, AI, computer vision, embedded systems and game development.
-
-<br />
-<br />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://mfaikduman.com)
-[![Rocket Calculator](https://img.shields.io/badge/Rocket%20Calculator-Open%20Project-F97316?style=for-the-badge&logo=rocket&logoColor=white)](https://rocketcalc.mfaikduman.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mfaikduman)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MFaikduman)
+  <!-- Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,40:0284c7,75:1e3a8a,100:0d1117&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,45:1e3a8a,100:0f172a&height=120&section=footer" alt="Footer wave" />
-
-</div>
-
